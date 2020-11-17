@@ -1,0 +1,17 @@
+{
+  "name": "wordament",
+  "version": "1.0.0",
+  "description": "WOrdament Solver",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "desktop-screenshot": "^0.1.1",
+    "jimp": "^0.5.6",
+    "robotjs": "^0.5.1",
+    "tesseract.js": "^1.0.13"
+  }
+}
